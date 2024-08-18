@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1:462747969598:ios:15c7b376b77f1d573c896f",
+                "paths": [
+                    "/product/*",
+                    "/store/*"
+                ]
+            }
+        ]
+    }
+}
